@@ -1,0 +1,159 @@
+.user-base {
+    float: left !important;
+    border-radius: 0 0 75px 0 !important;
+}
+
+.basic-contact-info {
+    border-radius: 50px 0 0 0 !important;
+}
+
+.name-detail {
+    float: left !important;
+}
+
+.title-detail {
+    float: left !important;
+}
+
+.contact-detail {
+    display: block;
+    border-left: 2px dotted #2393c1;
+    border-right: none !important;
+    float: right !important;
+    padding-left: 15px;
+    padding-right: 0px !important;
+    margin-top: 15px;
+    width: 50%;
+}
+
+.contact-info:after {
+    content: '';
+    height: 120px;
+    width: 104px;
+    background: #ffffff;
+    position: absolute;
+    top: 60px;
+    left: 74px;
+    z-index: 1;
+}
+
+.ui-sortable-handle:hover .property-item_head label {
+    background: #eeeeee;
+}
+
+.ui-sortable-handle:hover .property-item_head::before {
+    background: #eeeeee;
+}
+
+.smbox.col-narrow.sortable-cv-items {
+    float: left !important;
+    border-left: none !important;
+    border-right: 2px dotted #2393c1 !important;
+    padding-right: 20px;
+}
+
+
+.property-item_head label {
+    text-align: left !important;
+    float: left !important;
+    left: -27px !important;
+    padding-right: 5px !important;
+    padding-left: 0 !important;
+    min-width: initial !important;
+}
+
+.property-item_head span {
+    left: 50px !important;
+}
+
+.property-item_head:before {
+    right: -10px !important;
+    width: 20px !important;
+}
+
+.property-item_head:after {
+    left: -10px !important;
+    right: 0px !important;
+}
+
+.bar-progress.item-row.w0 ul.history span:before {
+    right: auto !important;
+    float: left !IMPORTANT;
+}
+
+div.item-row li > span label:first-child {
+    margin-right: 5px !important;
+    margin-left: 0px !important;
+    float: left !important;
+}
+
+ul.history li {
+    padding-right: 10px;
+    padding-left: 0;
+}
+
+div.item-row li > span label {
+    float: left !important;
+}
+
+div.item-row li label.grade i {
+    float: left !important;
+}
+
+.lgbox.col-wide.sortable-cv-items {
+    float: right !important;
+    margin-left: 0 !important;
+}
+
+.property-item_head span:after {
+    left: -5px !important;
+    float: left !important;
+}
+
+.property-item_head span i {
+    left: 0px !important;
+}
+
+.property-item_body > *:first-child {
+    width: 90% !important;
+}
+
+.personal-detail {
+    float: left !important;
+}
+
+ul.exp-desc li {
+    padding-left: 0 !important;
+    text-align: left;
+}
+
+.contact-info:before {
+    border-radius: 115px 0 0 0 !important;
+}
+
+.basic-contact-info {
+    padding-left: 20px !important;
+}
+
+.lgbox .property-item_head {
+    right: 50px !important;
+}
+
+
+.social__list div.item-row li > span label:first-child {
+    margin-right: 5px !important;
+    margin-left: 0px !important;
+}
+
+.about-us {
+    float: left !IMPORTANT;
+}
+
+.language-presentation-descriptive h2.subtitle.language-item ~ span label:last-child, .language-presentation-grades h2.subtitle.language-item ~ span label:last-child {
+    float: right !important;
+    margin-top: -5px;
+}
+
+.other-infos.not-drag {
+    float: left !important;
+}
